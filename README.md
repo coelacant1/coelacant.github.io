@@ -1,6 +1,7 @@
 # Coela Can't Website
 
-[![.github/workflows/ci.yaml](https://github.com/coelacant1/coelacant1.github.io/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/coelacant1/coelacant1.github.io/actions/workflows/ci.yaml)[![pages-build-deployment](https://github.com/coelacant1/coelacant1.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/coelacant1/coelacant1.github.io/actions/workflows/pages/pages-build-deployment)
+[![CI Build](https://github.com/coelacant1/coelacant.github.io/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/coelacant1/coelacant.github.io/actions/workflows/ci.yaml)[![pages-build-deployment](https://github.com/coelacant1/coelacant.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/coelacant1/coelacant.github.io/actions/workflows/pages/pages-build-deployment)
+
 
 
 Welcome to the repository for [coelacant1.github.io](https://coelacant1.github.io/)—the personal site of **Coela Can't**.
